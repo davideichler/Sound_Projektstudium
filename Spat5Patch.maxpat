@@ -4,13 +4,13 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 5,
-			"revision" : 4,
+			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 42.0, 85.0, 1301.0, 1049.0 ],
+		"rect" : [ 35.0, 84.0, 1468.0, 705.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -3001,36 +3001,36 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "all-logos-2020-carre-transparent.png",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/media/images",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/media/images",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/media/images",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/media/images",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "ircam-cnrs-spat-alpha.png",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/media/images",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/media/images",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/media/images",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/media/images",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.around.maxpat",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/patchers",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/patchers",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.checkupdates.maxpat",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/patchers",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/patchers",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.copyright.maxpat",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/patchers",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/patchers",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
@@ -3040,8 +3040,8 @@
 			}
 , 			{
 				"name" : "spat5.digest.js",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/javascript",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/javascript",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/javascript",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/javascript",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
@@ -3051,8 +3051,8 @@
 			}
 , 			{
 				"name" : "spat5.helpdetails.js",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/javascript",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/javascript",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/javascript",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/javascript",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
@@ -3062,71 +3062,71 @@
 			}
 , 			{
 				"name" : "spat5.input~.maxpat",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/patchers",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/patchers",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.links.maxpat",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/patchers",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/patchers",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.logos.maxpat",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/patchers",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/patchers",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.loop.png",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/media/images",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/media/images",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/media/images",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/media/images",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.monitor.maxpat",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/patchers",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/patchers",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.navigation.3d.png",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/media/images",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/media/images",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/media/images",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/media/images",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.navigation.xy.png",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/media/images",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/media/images",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/media/images",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/media/images",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.navigation.xz.png",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/media/images",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/media/images",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/media/images",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/media/images",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.navigation.yz.png",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/media/images",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/media/images",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/media/images",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/media/images",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.openpatcher.maxpat",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/patchers",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/patchers",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
@@ -3136,22 +3136,22 @@
 			}
 , 			{
 				"name" : "spat5.overview.maxpat",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/extras",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/extras",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/extras",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/extras",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.planes.png",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/media/images",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/media/images",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/media/images",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/media/images",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.positions.maxhelp",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/help",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/help",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/help",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/help",
 				"type" : "JSON",
 				"implicit" : 1
 			}
@@ -3161,22 +3161,22 @@
 			}
 , 			{
 				"name" : "spat5.style.js",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/javascript",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/javascript",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/javascript",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/javascript",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.updates.maxpat",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/patchers",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/patchers",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.url.maxpat",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/patchers",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/patchers",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
@@ -3194,8 +3194,8 @@
 			}
 , 			{
 				"name" : "spat5.ypr.convention.png",
-				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/media/images",
-				"patcherrelativepath" : "../../Max 8/Packages/spat5-x64/media/images",
+				"bootpath" : "~/OneDrive/Dokumente/Max 8/Packages/spat5-x64/media/images",
+				"patcherrelativepath" : "../../../Max 8/Packages/spat5-x64/media/images",
 				"type" : "PNG",
 				"implicit" : 1
 			}
