@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 85.0, 1506.0, 1049.0 ],
+		"rect" : [ 34.0, 85.0, 1509.0, 1049.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -40,11 +40,76 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-98",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 559.119358777999878, 829.268312454223633, 150.0, 20.0 ],
+					"text" : "D) --->"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-96",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 766.594702959060669, 91.147419691085815, 150.0, 20.0 ],
+					"text" : "<------- C) BOOM"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-94",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 155.243905782699585, 300.365860462188721, 150.0, 20.0 ],
+					"text" : "B)Spirit----->"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-93",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 30.487805604934692, 137.80488133430481, 150.0, 20.0 ],
+					"text" : "A) ATMO----->"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"bgcolor" : [ 1.0, 0.694117647058824, 0.0, 1.0 ],
+					"fontsize" : 14.0,
+					"id" : "obj-91",
+					"linecount" : 10,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1204.919312834739685, 844.386180281639099, 437.263160586357117, 167.0 ],
+					"saved_attribute_attributes" : 					{
+						"bgcolor" : 						{
+							"expression" : "themecolor.live_display_line_one"
+						}
+
+					}
+,
+					"text" : "ICH HABE DIESEN PATCH ZUM ERSTEN MAL GEÖFFNET: WAS MUSS ICH TUN DAMIT ICH WAS HÖRE??\n\n1.  Unter A) und B) \"sound file\" aus dropdown. dann Samples aus Ordner laden \"Atmo_V1_Loop\" und \"Spirit_V5_Master\"\nC) auf \"read\" klicken und boom mp3 auswählen\n2. Bei A) B) und C) jeweils den Pegel nach oben ziehen damit Signal kommt\n3. Unter D auf \"Audio is OFF\" on schalten\n4. Unity Szene laden für 3D Spirit"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-86",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1378.237671613693237, 2.79944622039784, 150.0, 34.0 ],
+					"patching_rect" : [ 1513.603528499603271, 160.132636785507202, 150.0, 34.0 ],
 					"text" : "Spirit im Raum\n"
 				}
 
@@ -69,8 +134,8 @@
 					"numinlets" : 6,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1736.553152084350586, 424.599124019146075, 110.0, 22.0 ],
-					"text" : "scale -10 10 -1. 1."
+					"patching_rect" : [ 1736.553152084350586, 424.599124019146075, 105.0, 22.0 ],
+					"text" : "scale -10 10 -3. 3."
 				}
 
 			}
@@ -95,7 +160,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1609.553152084350586, 424.599124019146075, 105.0, 22.0 ],
-					"text" : "scale -10 10 -1. 1."
+					"text" : "scale -10 10 -3. 3."
 				}
 
 			}
@@ -119,8 +184,8 @@
 					"numinlets" : 6,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1480.603528499603271, 424.599124019146075, 110.0, 22.0 ],
-					"text" : "scale -10 10 -1. 1."
+					"patching_rect" : [ 1480.603528499603271, 424.599124019146075, 105.0, 22.0 ],
+					"text" : "scale -10 10 -3. 3."
 				}
 
 			}
@@ -144,7 +209,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1513.603528499603271, 293.999592517614474, 134.0, 22.0 ],
-					"text" : "0.745041 0.889135 0."
+					"text" : "1.131375 0.729014 0."
 				}
 
 			}
@@ -664,7 +729,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1266.302030324935913, 305.632492035627365, 169.063857555389404, 174.0 ],
+					"patching_rect" : [ 1271.180079221725464, 319.04712650179863, 170.0, 174.0 ],
 					"text" : "/speaker/1/xyz 3.56 -3.49 2, /speaker/2/xyz 3.56 -1.65 2, /speaker/3/xyz 3.56 0 2, /speaker/4/xyz 3.56 1.45 2, /speaker/5/xyz 2.5 2.5 2, /speaker/6/xyz 1, 3.3 2, /speaker/7/xyz -1, 3.3 2, /speaker/8/xyz -2.5 2.5 2, /speaker/9/xyz -3.56 1.45 2, /speaker/10/xyz -3.56 0 2, /speaker/11/xyz -3.56 -1.65 2, /speaker/12/xyz -3.56 -3.49 2,"
 				}
 
@@ -3874,7 +3939,33 @@
 				"implicit" : 1
 			}
  ],
-		"autosave" : 0
+		"autosave" : 0,
+		"styles" : [ 			{
+				"name" : "rnbodefault",
+				"default" : 				{
+					"accentcolor" : [ 0.343034118413925, 0.506230533123016, 0.86220508813858, 1.0 ],
+					"bgcolor" : [ 0.031372549019608, 0.125490196078431, 0.211764705882353, 1.0 ],
+					"bgfillcolor" : 					{
+						"angle" : 270.0,
+						"autogradient" : 0.0,
+						"color" : [ 0.031372549019608, 0.125490196078431, 0.211764705882353, 1.0 ],
+						"color1" : [ 0.031372549019608, 0.125490196078431, 0.211764705882353, 1.0 ],
+						"color2" : [ 0.263682, 0.004541, 0.038797, 1.0 ],
+						"proportion" : 0.39,
+						"type" : "color"
+					}
+,
+					"color" : [ 0.929412, 0.929412, 0.352941, 1.0 ],
+					"elementcolor" : [ 0.357540726661682, 0.515565991401672, 0.861786782741547, 1.0 ],
+					"fontname" : [ "Lato" ],
+					"fontsize" : [ 12.0 ],
+					"stripecolor" : [ 0.258338063955307, 0.352425158023834, 0.511919498443604, 1.0 ]
+				}
+,
+				"parentstyle" : "",
+				"multi" : 0
+			}
+ ]
 	}
 
 }
