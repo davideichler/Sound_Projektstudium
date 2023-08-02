@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 85.0, 1509.0, 1049.0 ],
+		"rect" : [ 34.0, 85.0, 1852.0, 1049.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -87,11 +87,11 @@
 					"bgcolor" : [ 1.0, 0.694117647058824, 0.0, 1.0 ],
 					"fontsize" : 14.0,
 					"id" : "obj-91",
-					"linecount" : 10,
+					"linecount" : 11,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1204.919312834739685, 844.386180281639099, 437.263160586357117, 167.0 ],
+					"patching_rect" : [ 1204.919312834739685, 844.386180281639099, 437.263160586357117, 184.0 ],
 					"saved_attribute_attributes" : 					{
 						"bgcolor" : 						{
 							"expression" : "themecolor.live_display_line_one"
@@ -99,7 +99,7 @@
 
 					}
 ,
-					"text" : "ICH HABE DIESEN PATCH ZUM ERSTEN MAL GEÖFFNET: WAS MUSS ICH TUN DAMIT ICH WAS HÖRE??\n\n1.  Unter A) und B) \"sound file\" aus dropdown. dann Samples aus Ordner laden \"Atmo_V1_Loop\" und \"Spirit_V5_Master\"\nC) auf \"read\" klicken und boom mp3 auswählen\n2. Bei A) B) und C) jeweils den Pegel nach oben ziehen damit Signal kommt\n3. Unter D auf \"Audio is OFF\" on schalten\n4. Unity Szene laden für 3D Spirit"
+					"text" : "ICH HABE DIESEN PATCH ZUM ERSTEN MAL GEÖFFNET: WAS MUSS ICH TUN DAMIT ICH WAS HÖRE??\n\n1.  Unter A) und B) \"sound file\" aus dropdown. dann Samples aus Ordner laden \"Atmo_V1_Loop\" und \"Spirit_V5_Master\"\nC) auf \"read\" klicken und boom mp3 auswählen\n2. Bei A) B) und C) jeweils den Pegel nach oben ziehen damit Signal kommt\n3. Unter D auf \"Audio is OFF\" on schalten\n4. Unity Szene laden für 3D Spirit\n5. Richtigen Output ausgewählt?"
 				}
 
 			}
